@@ -16,7 +16,7 @@ func main () {
 
 		// fmt.Println(i + sep + os.Args[i])
 
-		fmt.Printf("index: %v %v %v \n", i, sep, os.Args[i])
+		fmt.Printf("index %v: %v %v \n", i, sep, os.Args[i])
 
 	}
 
